@@ -1,0 +1,98 @@
+.container{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.formcont{
+
+
+  background-color: rgb(3, 112, 112);
+ padding: 0px 50px;
+  
+}
+
+.formTitle{
+  text-align: center;
+  padding: 10px;
+  color: antiquewhite;
+}
+
+input{
+  height: 50px;
+  width: 250px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 1rem;
+  padding: 0px 60px;
+}
+
+
+
+.btn{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+
+  padding: 12px 20px;
+  border: none;
+  outline: none;
+  margin-bottom: 2px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgb(24, 247, 24);
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.home{
+
+  height: 300px;
+  width: 100%;
+
+}
+
+
+.home span{
+  
+}
+
+
+.dash1{
+
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.deleteButton1{
+
+  margin: 10px;
+}
+
+
+.deleteButton{
+
+  margin: 10px;
+}
+
+
+span{
+  color: #fff;
+}
+
+.user{
+
+  color: red;
+}
+
+.logout{
+
+  background-color: firebrick;
+}
